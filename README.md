@@ -6,7 +6,7 @@
 
 <br/>
 
-## <span style="color:darkblue; font-size: larger">November 28-29, 2024 at the Aula Magna in Elche (Universidad Miguel Hernández)</span>
+## <span style="color:darkblue; font-size: larger">November 28-29, 2024 at the [Aula Magna](https://maps.app.goo.gl/tkF3bYfJ57GDMJ846) en Elche (Universidad Miguel Hernández) in Elche (Universidad Miguel Hernández)</span>
 
 <br/>
 
@@ -39,30 +39,35 @@
 
 > #### 9:45 Nutritional Epidemiology
 >
->Speaker: Prof. Jesús Vioque López
+> Speaker: Prof. Jesús Vioque López
+>
+> Description: XXXX
 
-Description: XXXX
+> #### 10:15 Pollution and Health
+>
+> Speaker: Dr. Antonio J. Signes Pastor
+>
+> Description: XXXX
 
-10:15 Pollution and Health
-Speaker: Dr. Antonio J. Signes Pastor
+> #### 10:45 <span style="color:darkred;">Coffee break</span>
 
-Description: XXXX
+> #### 11:15 Title to be determined
+>
+> Speaker: Dr. Pablo Martínez Camblor
+>
+>Description: XXXX
 
-10:45 <span style="color:darkred;">Coffee break</span>
-11:15 Title to be determined
-Speaker: Dr. Pablo Martínez Camblor
+> #### 11:45 Title to be determined
+>
+> Speaker: Dr. Susana Díaz Coto
+>
+> Description: XXXX
 
-Description: XXXX
-
-11:45 Title to be determined
-Speaker: Dr. Susana Díaz Coto
-
-Description: XXXX
-
-12:15 Title to be determined
-Speaker: Dr. Leyre Notario Barandiarán
-
-Description: XXXX
+> #### 12:15 Title to be determined
+>
+> Speaker: Dr. Leyre Notario Barandiarán
+>
+> Description: XXXX
 
 12:45 Final conclusions
 Speaker: xxxxxxx
@@ -123,16 +128,21 @@ Susana Díaz Coto - susana.diaz.coto@dartmouth.edu
 </div>
 <img src="Tap.png" style="zoom:80%;" />
 Organizing Committee:
-President
-<div style="overflow: hidden;">
-<img src="Photo toni signes.png" style="zoom:40%; float: left; margin-right: 10px;" />
-<p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Senior researcher CIDEGENT at the Universidad Miguel Hernández (UMH) and the Alicante Health and Biomedical Research Institute (ISABIAL). Member of the CIBER of Epidemiology and Public Health (CIBERESP). Expert in contaminants and trace elements. Principal investigator of the ARSENCIA project, co-principal investigator of the HidroSOStoneFruit project, and collaborator in the PREDIMED, PI23/01568, and ThinkinAzul projects.</p>
-</div>
-Committee members
-<div style="overflow: hidden;">
-<img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
-<p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Professor of Preventive Medicine and Public Health at the UMH. He obtained a master's degree in public health and training in nutritional epidemiology at Harvard. He leads the EPINUT group, which investigates the role of diet in non-communicable diseases. He has led studies such as PANESOES, on diet and cancer risk, and the INMA Study, on contaminants and child development. His group participates in PREDIMED-PLUS, which evaluates a hypocaloric Mediterranean diet on cardiovascular risk and diabetes.</p></div>
-<div style="overflow: hidden;">
-<img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
-<p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. Professor of Preventive Medicine and Public Health at the UMH. Member of the EPINUT group, focused on investigating the role of diet in the risk of non-communicable diseases. She has conducted studies on survival, lifestyle, and diet, as well as on Nutritional Epidemiology and Occupational Therapy in Neurodevelopmental Disorders. Collaborator in the INMA and PREDIMED-PLUS studies, and co-author of the mobile app Anticipa-TEA, aimed at children with Autism Spectrum Disorder.</p>
-</div>
+
+> ### President
+
+><div style="overflow: hidden;">
+><img src="Photo toni signes.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Senior researcher CIDEGENT at the Universidad Miguel Hernández (UMH) and the Alicante Health and Biomedical Research Institute (ISABIAL). Member of the CIBER of Epidemiology and Public Health (CIBERESP). Expert in contaminants and trace elements. Principal investigator of the ARSENCIA project, co-principal investigator of the HidroSOStoneFruit project, and collaborator in the PREDIMED, PI23/01568, and ThinkinAzul projects.</p>
+></div>
+
+> #### Committee members
+
+><div style="overflow: hidden;">
+><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Professor of Preventive Medicine and Public Health at the UMH. He obtained a master's degree in public health and training in nutritional epidemiology at Harvard. He leads the EPINUT group, which investigates the role of diet in non-communicable diseases. He has led studies such as PANESOES, on diet and cancer risk, and the INMA Study, on contaminants and child development. His group participates in PREDIMED-PLUS, which evaluates a hypocaloric Mediterranean diet on cardiovascular risk and diabetes.</p></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. Professor of Preventive Medicine and Public Health at the UMH. Member of the EPINUT group, focused on investigating the role of diet in the risk of non-communicable diseases. She has conducted studies on survival, lifestyle, and diet, as well as on Nutritional Epidemiology and Occupational Therapy in Neurodevelopmental Disorders. Collaborator in the INMA and PREDIMED-PLUS studies, and co-author of the mobile app Anticipa-TEA, aimed at children with Autism Spectrum Disorder.</p>
+></div>
