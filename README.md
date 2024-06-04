@@ -69,65 +69,88 @@
 >
 > Description: XXXX
 
-12:45 Final conclusions
-Speaker: xxxxxxx
+> ### 12:45 Final conclusions
+>
+> Speaker: xxxxxxx
+>
+> Description: XXXX
 
-Description: XXXX
+> ### 13:00 <span style="color:darkred;">Active break</span>
 
-13:00 <span style="color:darkred;">Active break</span>
-13:30 <span style="color:darkred;">Tapas and Gurus Lunch</span>
-15:00 Student poster session
-17:30 Award ceremony and end of day 1 sessions
-Program Day 2 - November 29, 2024
-9:00 Attendee reception
-9:30 Title to be determined - Agroalnext Project
-Speaker: Paqui/Lucia
+> ### 13:30 <span style="color:darkred;">Tapas and Gurus Lunch</span>
 
-Description: xxxxxx
+> ### 15:00 Student poster session
 
-9:45 Title to be determined - ThinkinAzul Project
-Speaker: Esther/Marina
+> ### 17:30 Award ceremony and end of day 1 sessions
 
-Description: xxxxx
+----
 
-10:15 Title to be determined - Mediterranean Diet Project
-Speaker: Dr. Sandra González Palacios
+### Program Day 2 - November 29, 2024
 
-Description: xxxxx
+> ### 9:00 Attendee reception
 
-10:30 <span style="color:darkred;">Active break</span>
-10:45 <span style="color:darkred;">Coffee break</span>
-11:15 Presentation by PREDIMED Plus participants
-Speaker: xxxxx
+> ### 9:30 Title to be determined - Agroalnext Project
+>
+>Speaker: Paqui/Lucia
+>
+>Description: xxxxxx
 
-Description: xxxxx
+> ### 9:45 Title to be determined - ThinkinAzul Project
+>
+> Speaker: Esther/Marina
+>
+> Description: xxxxx
 
-11:45 Farewell for the end of the PREDIMED Plus study
-Speaker: xxxxx
+> ### 10:15 Title to be determined - Mediterranean Diet Project
+> 
+> Speaker: Dr. Sandra González Palacios
+>
+> Description: xxxxx
 
-Description: xxxxx
+> ### 10:30 <span style="color:darkred;">Active break</span>
 
-10:45 <span style="color:darkred;">Tasting - To be defined</span>
-13:15 Closing ceremony
-Dr. Antonio J. Signes Pastor
+> ### 10:45 <span style="color:darkred;">Coffee break</span>
 
-13:30 End of ARSENCIA Sessions
+> ### 11:15 Presentation by PREDIMED Plus participants
+>
+>Speaker: xxxxx
+>
+>Description: xxxxx
+
+> ### 11:45 Farewell for the end of the PREDIMED Plus study
+>
+> Speaker: xxxxx
+>
+> Description: xxxxx
+
+> ### 10:45 <span style="color:darkred;">Tasting - To be defined</span>
+
+> ### 13:15 Closing ceremony
+>
+> Dr. Antonio J. Signes Pastor
+
+> ### 13:30 End of ARSENCIA Sessions
+
 <img src="Tap.png" style="zoom:80%;" />
+
 Invited Speakers
-National
-xxxx
+> ### National
+>
+>xxxx
+>
+> ### **International**
+>
+> Pablo Martinez Camblor - Pablo.Martinez-Camblor@hitchcock.org
+>
+> Susana Díaz Coto - susana.diaz.coto@dartmouth.edu
 
-International
-Pablo Martinez Camblor - Pablo.Martinez-Camblor@hitchcock.org
+><div style="overflow: hidden;">
+><img src="Photo Leyre.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Leyre Notario Barandiaran - <a href="mailto:Leyre.Notario.Barandiaran@dartmouth.edu">Leyre.Notario.Barandiaran@dartmouth.edu</a>. Postdoctoral researcher. Pharmacy and Epidemiology</p>
+></div>
+><img src="Tap.png" style="zoom:80%;" />
 
-Susana Díaz Coto - susana.diaz.coto@dartmouth.edu
-
-<div style="overflow: hidden;">
-<img src="Photo Leyre.png" style="zoom:40%; float: left; margin-right: 10px;" />
-<p>Leyre Notario Barandiaran - <a href="mailto:Leyre.Notario.Barandiaran@dartmouth.edu">Leyre.Notario.Barandiaran@dartmouth.edu</a>. Postdoctoral researcher. Pharmacy and Epidemiology</p>
-</div>
-<img src="Tap.png" style="zoom:80%;" />
-Organizing Committee:
+> ## **Organizing Committee**:
 
 > ### President
 
