@@ -170,3 +170,90 @@
 ><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. Professor of Preventive Medicine and Public Health at the UMH. Member of the EPINUT group, focused on investigating the role of diet in the risk of non-communicable diseases. She has conducted studies on survival, lifestyle, and diet, as well as on Nutritional Epidemiology and Occupational Therapy in Neurodevelopmental Disorders. Collaborator in the INMA and PREDIMED-PLUS studies, and co-author of the mobile app Anticipa-TEA, aimed at children with Autism Spectrum Disorder.</p>
 ></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Laura Torr.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Laura Torres Collado - <a href="mailto:l.torres@umh.es">l.torres@umh.es</a>. Assistant Professor in Public Health at UMH and postdoctoral researcher in the EPINUT group at UMH. Affiliated with ISABIAL and CIBERESP, her research focuses on lifestyle, diet, and survival in adults, as well as the epidemiology of Nutrition and Occupational Therapy in Neurodevelopmental Disorders. She collaborates in the PREDIMED-Plus study and is co-author of the Anticipa-TEA app for children with Autism Spectrum Disorder.</p>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Alex.png" style="zoom:42%; float: left; margin-right: 10px;" />
+><p>Alejandro Oncina Canovas - <a href="mailto:aoncina@umh.es">aoncina@umh.es</a>. Predoctoral researcher in the EPINUT group at UMH. Affiliated with ISABIAL and CIBERESP. His main research line focuses on examining the association between adherence to pro-vegetarian dietary patterns (diets that mimic vegetarian diets) and various health outcomes. Additionally, he is a collaborating researcher in ARSENCIA and other internationally relevant studies such as PREDIMED-Plus and the INMA cohort study.</p>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Laura Comp.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Laura Maria Compañ Gabucio - <a href="mailto:lcompan@umh.es">lcompan@umh.es</a>. Postdoctoral researcher in the EPINUT group at UMH. Affiliated with ISABIAL and CIBERESP. Main research lines: Epidemiology of Nutrition and Occupational Therapy in Neurodevelopmental Disorders. Collaborating researcher in internationally relevant studies such as PREDIMED-Plus and the INMA Project. Co-author of the mobile application Anticipa-TEA, aimed at children with Autism Spectrum Disorder and their families.</p>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Carolina.png" style="zoom:38%; float: left; margin-right: 10px;" />
+><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>. Graduated in Human Nutrition and Dietetics from the University of Alicante (UA) and holds a Master's in Public Health, jointly from Universidad Miguel Hernández (UMH) and UA. Currently, she has a predoctoral contract at UMH in the EPINUT group, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH.</p>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Diana.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>. Graduated in Occupational Therapy from UMH and holds a Master's in Public Health, jointly from Universidad Miguel Hernández (UMH) and Universidad de Alicante (UA). Currently, she has a contract from the ISABIAL INVESTIGO Program as a collaborating researcher in the EPINUT group at UMH, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH.</p>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Mari Carmen.png" style="zoom:40%; float: left; margin-right: 10px;" />
+<p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. Graduated in Veterinary Medicine from the University of Murcia (UMU) and holds a Master's in Public Health, jointly from UMH and Universidad de Alicante (UA). Currently, she has a contract from the ISABIAL INVESTIGO Program as a collaborating researcher in the EPINUT group at UMH, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH.</p>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Sandra.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Sandra Gonzalez Palacios - <a href="mailto:sandra.gonzalezp@umh.es">sandra.gonzalezp@umh.es</a>. Postdoctoral researcher at CIBER in Epidemiology and Public Health (CIBERESP). Member of the EPINUT group and the Alicante Institute for Health and Biomedical Research (ISABIAL). Dietitian-Nutritionist, Doctor in Public Health, and specialist in Nutritional Epidemiology. Principal investigator of the FIS PI23/01568 project and the Intramural CIBERESP ESP24PI02 Project. Collaborator in other studies such as PREDIMED Plus and the INfancia y Medio Ambiente study.</p>
+></div>
+
+><img src="Tap.png" style="zoom:80%;" />
+
+## **Evaluation Committee**:
+
+><div style="overflow: hidden;">
+><img src="Photo Paqui_1.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Francisca Hernández García - <a href="mailto:francisca.hernandez@umh.es">francisca.hernandez@umh.es</a>. Professor at UMH, member of the Fruit Growing and Production Techniques Research Group, Senior Researcher at CIAGRO-UMH, and member of the Academic Committee of the Doctoral Program in Agricultural, Environmental, and Food Resources and Technologies. Expert in Fruit Growing and Production Techniques. Principal investigator of the HidroSOStoneFruit project and collaborator in the ThinkinAzul project.</p></div>
+
+<img src="Tap.png" style="zoom:80%;" />
+
+> ## **Scientific Committee**:
+
+> ### President
+
+> Antonio J. Signes Pastor, Universidad Miguel Hernández (Spain)
+
+> ### Committee Members
+
+> Jesús Vioque López, Universidad Miguel Hernández (Spain)
+>
+> Manuela García de la Hera, Universidad Miguel Hernández (Spain)
+>
+> Laura Torres Collado, Universidad Miguel Hernández (Spain)
+>
+> Sandra González Palacios, Universidad Miguel Hernández (Spain)
+>
+> Alejandro Oncina Cánovas, Universidad Miguel Hernández (Spain)
+>
+> Laura M. Compañ Gabucio, Universidad Miguel Hernández (Spain)
+>
+> Carolina Ojeda Belokon, Universidad Miguel Hernández (Spain)
+>
+> Diana Mancheño Bañón, Universidad Miguel Hernández (Spain)
+>
+> María del Carmen Esquiva Antonlino, Universidad Miguel Hernández (Spain)
+> 
+> Leyre Notario Barandiaran, Dartmouth College (United States)
+
+<img src="Tap.png" style="zoom:80%;" />
+
+> ## **Links of Interest:**
+
+> [EPINUT](https:XXXXXXX)
+
+<img src="Tap.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="Logo.png" style="zoom:100%;" />
+
+<img src="bottom.png" style="zoom:80%;" />
+
