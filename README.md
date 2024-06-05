@@ -198,7 +198,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Mari Carmen.png" style="zoom:40%; float: left; margin-right: 10px;" />
-<p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. Graduated in Veterinary Medicine from the University of Murcia (UMU) and holds a Master's in Public Health, jointly from UMH and Universidad de Alicante (UA). Currently, she has a contract from the ISABIAL INVESTIGO Program as a collaborating researcher in the EPINUT group at UMH, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH. </p>
+><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. Graduated in Veterinary Medicine from the University of Murcia (UMU) and holds a Master's in Public Health, jointly from UMH and Universidad de Alicante (UA). Currently, she has a contract from the ISABIAL INVESTIGO Program as a collaborating researcher in the EPINUT group at UMH, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH. </p>
 ></div>
 
 ><div style="overflow: hidden;">
