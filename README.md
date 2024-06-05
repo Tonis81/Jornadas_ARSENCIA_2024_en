@@ -137,10 +137,11 @@
 
 > ### National
 >
-><div style="overflow: hidden;">
-><img src="Photo Marina.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Marina Cano Lamadrid - <a href="mailto:marina.canol@umh.es">marina.canol@umh.es</a>. Postdoctoral researcher at UMH, member of the Food Quality and Safety Group in the Department of Agro-Food Technology and researcher at CIAGRO-UMH. Expert in Food Sensory Analysis and Food Safety. Collaborator in the ThinkinAzul project.</p>
-></div>
+> <div style="overflow: hidden;">
+> <img src="Photo Marina.png" style="zoom:30%; float: left; margin-right: 10px;" />
+> <p>Marina Cano Lamadrid - <a href="mailto:marina.canol@umh.es">marina.canol@umh.es</a>. Postdoctoral researcher at UMH, member of the Food Quality and Safety Group in the Department of Agro-Food Technology and researcher at CIAGRO-UMH. Expert in Food Sensory Analysis and Food Safety. Collaborator in the ThinkinAzul project.</p>
+> </div>
+>
 > 
 >
 > ### **International**
@@ -150,9 +151,10 @@
 > Susana Díaz Coto - susana.diaz.coto@dartmouth.edu
 
 ><div style="overflow: hidden;">
-><img src="Photo Leyre.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><img src="Photo Leyre.png" style="zoom:50%; float: left; margin-right: 10px;" />
 ><p>Leyre Notario Barandiaran - <a href="mailto:Leyre.Notario.Barandiaran@dartmouth.edu">Leyre.Notario.Barandiaran@dartmouth.edu</a>. Postdoctoral researcher. Pharmacy and Epidemiology</p>
 ></div>
+>
 ><img src="Tap.png" style="zoom:80%;" />
 
 > ## **Organizing Committee**:
