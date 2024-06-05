@@ -97,7 +97,7 @@
 
 > ### 9:45 Title to be determined - ThinkinAzul Project
 >
-> Speaker: Esther/Marina
+> Speaker: Marina Cano Lamadrid
 >
 > Description: xxxxx
 
@@ -133,11 +133,15 @@
 
 <img src="Tap.png" style="zoom:80%;" />
 
-## **Invited Speakers**
+## **Speakers**
 
 > ### National
 >
->xxxx
+><div style="overflow: hidden;">
+><img src="Photo Marina.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Marina Cano Lamadrid - <a href="mailto:marina.canol@umh.es">marina.canol@umh.es</a>. Postdoctoral researcher at UMH, member of the Food Quality and Safety Group in the Department of Agro-Food Technology and researcher at CIAGRO-UMH. Expert in Food Sensory Analysis and Food Safety. Collaborator in the ThinkinAzul project.</p>
+></div>
+> 
 >
 > ### **International**
 >
