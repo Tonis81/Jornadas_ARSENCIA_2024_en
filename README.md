@@ -91,13 +91,13 @@
 
 > ### 9:30 Title to be determined - Agroalnext Project
 >
->Speaker: Paqui/Lucia
+> Speaker: Paqui/Lucia
 >
->Description: xxxxxx
+> Description: xxxxxx
 
 > ### 9:45 Title to be determined - ThinkinAzul Project
 >
-> Speaker: Marina Cano Lamadrid
+> Speaker: Dra. Marina Cano Lamadrid
 >
 > Description: xxxxx
 
