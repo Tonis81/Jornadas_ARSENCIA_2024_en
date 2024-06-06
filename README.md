@@ -99,7 +99,7 @@
 >
 > Ponente: Dra. Marina Cano Lamadrid
 >
-> Descripción: Uno de los objetivos del proyecto es la caracterización de los piensos formulados para dorada de acuicultura con proteínas alternativas junto con la evaluación del efecto de la alimentación de dichos piensos a lo largo del ciclo completo de vida en el contenido de contaminantes abióticos en las partes comestibles y vísceras.
+> Description: One of the objectives of the project is the characterization of formulated feeds for farmed gilthead seabream using alternative proteins, along with the evaluation of the effect of feeding these feeds throughout the entire life cycle on the content of abiotic contaminants in the edible parts and viscera.
 
 > ### 10:15 Title to be determined - Mediterranean Diet Project
 > 
