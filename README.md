@@ -71,7 +71,7 @@
 
 > ### 12:45 Metals in mothers and children
 >
-> Speaker: Eva Morales Bartolomé
+> Speaker: Dr. Eva Morales Bartolomé
 >
 > Description: XXXX
 
