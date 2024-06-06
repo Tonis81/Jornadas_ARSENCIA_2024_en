@@ -226,6 +226,8 @@
 ><div style="overflow: hidden;">
 ><img src="Photo miguel.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Miguel García-Villarino - <a href="mailto:garciavmiguel@uniovi.es">garciavmiguel@uniovi.es</a>. Associate Professor in the Area of Preventive Medicine and Public Health at the University of Oviedo. Affiliated with the Health Research Institute of the Principality of Asturias and the University Institute of Oncology of the Principality of Asturias. His main research priorities include the use of data to improve care for people with diabetes and the epidemiological study of exposure to environmental pollutants and their impact on human health, with a focus on type 2 diabetes mellitus in the Principality of Asturias.</p></div>
 
+><div style="overflow: hidden;">
+><img src="Photo miguel.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Rocío Fernández Iglesias - <a href="mailto:fernandezirocio@uniovi.es">fernandezirocio@uniovi.es</a>. Professor of Statistics and Operations Research and Mathematics Education at the University of Oviedo, and Doctor in Biomedicine and Molecular Oncology from the same university. Her main line of research focuses on the application of statistical methods in the field of epidemiology and public health. She is affiliated with the Health Research Institute of the Principality of Asturias and the University Institute of Oncology of the Principality of Asturias.</p></div>
 
 <img src="Tap.png" style="zoom:80%;" />
 
