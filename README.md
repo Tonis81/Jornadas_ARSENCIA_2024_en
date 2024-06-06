@@ -143,8 +143,8 @@
 > </div>
 
 > <div style="overflow: hidden;">
-> <img src="Photo Marina_1.png" style="zoom:40%; float: left; margin-right: 10px;" />
-> <p>Eva Morales Bartolomé - <a href="mailto:evamorales@um.es">evamorales@um.es</a>. Assistant Professor of Preventive Medicine and Public Health at the University of Murcia and member of the Pediatric Research Group at IMIB-Arrixaca. Co-director of the NELA (Nutrition in Early Life and Asthma) cohort, which investigates the impact of the early prenatal and postnatal environment on respiratory health during childhood, with a special interest in deciphering the early origins of asthma and allergic manifestations. Member of the executive committee of the international collaborative consortium GAN (Global Asthma Network) and member of the CIBER of Epidemiology and Public Health (CIBERESP). Her research lines in the field of maternal and child health focus on birth cohort studies, asthma epidemiology, and environmental and molecular epidemiology..</p>
+> <img src="Photo Eva.png" style="zoom:40%; float: left; margin-right: 10px;" />
+> <p>Eva Morales Bartolomé - <a href="mailto:evamorales@um.es">evamorales@um.es</a>. Assistant Professor of Preventive Medicine and Public Health at the University of Murcia, and member of the Pediatric Research Group at IMIB-Arrixaca. Co-director of the NELA cohort, studying the early environmental impacts on childhood respiratory health, particularly asthma and allergies. Executive committee member of GAN and member of CIBERESP. Her research focuses on birth cohort studies, asthma epidemiology, and environmental and molecular epidemiology.</p>
 > </div>
 
 > ### **International**
