@@ -141,13 +141,14 @@
 > <img src="Photo Marina_1.png" style="zoom:40%; float: left; margin-right: 10px;" />
 > <p>Marina Cano Lamadrid - <a href="mailto:marina.canol@umh.es">marina.canol@umh.es</a>. Postdoctoral researcher at UMH, member of the Food Quality and Safety Group in the Department of Agro-Food Technology and researcher at CIAGRO-UMH. Expert in Food Sensory Analysis and Food Safety. Collaborator in the ThinkinAzul project.</p>
 > </div>
->
-> 
->
+
 > ### **International**
->
-> Pablo Martinez Camblor - Pablo.Martinez-Camblor@hitchcock.org
->
+
+><div style="overflow: hidden;">
+><img src="Photo Pablo.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Pablo Martinez Camblor - <a href="mailto:Pablo.Martinez-Camblor@hitchcock.org">Pablo.Martinez-Camblor@hitchcock.org</a>. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+></div>
+
 > Susana Díaz Coto - susana.diaz.coto@dartmouth.edu
 
 ><div style="overflow: hidden;">
