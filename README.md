@@ -149,7 +149,10 @@
 ><p>Pablo Martinez Camblor - <a href="mailto:Pablo.Martinez-Camblor@hitchcock.org">Pablo.Martinez-Camblor@hitchcock.org</a>. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 ></div>
 
-> Susana Díaz Coto - susana.diaz.coto@dartmouth.edu
+><div style="overflow: hidden;">
+><img src="Photo Susana.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Susana Díaz Coto - <a href="mailto:susana.diaz.coto@dartmouth.edu">susana.diaz.coto@dartmouth.edu</a>. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Leyre_1.png" style="zoom:40%; float: left; margin-right: 10px;" />
