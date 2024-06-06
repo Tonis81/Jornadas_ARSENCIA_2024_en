@@ -69,9 +69,9 @@
 >
 > Description: XXXX
 
-> ### 12:45 Final conclusions
+> ### 12:45 Metals in mothers and children
 >
-> Speaker: xxxxxxx
+> Speaker: Eva Morales Bartolomé
 >
 > Description: XXXX
 
