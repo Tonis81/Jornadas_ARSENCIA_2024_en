@@ -95,7 +95,7 @@
 >
 > Description: xxxxxx
 
-> #### 9:45 Proyecto QualiFishPro
+> #### 9:45 Acuicultura, calidad e innovación (AQUI)
 >
 > Ponente: Dra. Marina Cano Lamadrid
 >
