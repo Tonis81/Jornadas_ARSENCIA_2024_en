@@ -143,7 +143,7 @@
 > </div>
 
 > <div style="overflow: hidden;">
-> <img src="Photo Eva.png" style="zoom:40%; float: left; margin-right: 10px;" />
+> <img src="Photo Eva.png" style="zoom:35%; float: left; margin-right: 10px;" />
 > <p>Eva Morales Bartolomé - <a href="mailto:evamorales@um.es">evamorales@um.es</a>. Assistant Professor of Preventive Medicine and Public Health at the University of Murcia, and member of the Pediatric Research Group at IMIB-Arrixaca. Co-director of the NELA cohort, studying the early environmental impacts on childhood respiratory health, particularly asthma and allergies. Executive committee member of GAN and member of CIBERESP. Her research focuses on birth cohort studies, asthma epidemiology, and environmental and molecular epidemiology.</p>
 > </div>
 
