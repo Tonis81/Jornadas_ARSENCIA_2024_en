@@ -6,6 +6,8 @@
 
 <br/>
 
+[spanish version](https://tonis81.github.io/Jornadas_ARSENCIA_2024/)
+
 ## <span style="color:darkblue; font-size: larger">November 28-29, 2024 at the [Aula Magna](https://maps.app.goo.gl/tkF3bYfJ57GDMJ846) en Elche (Universidad Miguel Hernández) in Elche (Universidad Miguel Hernández)</span>
 
 <br/>
@@ -156,7 +158,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Susana.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Susana Díaz Coto - <a href="mailto:Susana.Diaz.Coto@hitchcock.org">Susana.Diaz.Coto@hitchcock.org</a>. Ph.D. in Mathematics and Statistics from the University of Oviedo and Senior Scientist at Dartmouth Health. Currently, she provides methodological support in Statistics to the research groups of the Department of Orthopedics. Previously, she worked as a Scientific Researcher in the Department of Epidemiology at Dartmouth College, collaborating on the New Hampshire Birth Cohort Study (NHBCS) and Environmental Children's Health Outcomes (ECHO) studies. She also collaborates as a Statistician in the INMA study. Research line: non-parametric estimation of methods for evaluating the discriminatory capacity of biomarkers in binary classification problems.</p>
+><p>Susana Díaz Coto - <a href="mailto:Susana.Diaz.Coto@hitchcock.org">Susana.Diaz.Coto@hitchcock.org</a>. PhD in Mathematics and Statistics from the University of Oviedo and Senior Scientist at Dartmouth Health, where she currently provides methodological support in Statistics to the Department of Orthopedics. Previously, she worked in the Department of Epidemiology at Dartmouth College, collaborating on the NHBCS and ECHO studies. She also collaborates on the INMA study. Her research focuses on nonparametric estimation methods for evaluating the discriminatory capacity of biomarkers in binary classification problems.</p>
 ></div>
 
 ><div style="overflow: hidden;">
