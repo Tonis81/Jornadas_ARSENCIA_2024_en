@@ -53,7 +53,7 @@
 
 > #### 10:45 <span style="color:darkred;">Coffee break</span>
 
-> #### 11:15 Title to be determined
+> #### 11:15 The role of statisticians in clinical contexts
 >
 > Speaker: Dr. Pablo Martínez Camblor
 >
