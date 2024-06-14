@@ -14,6 +14,14 @@
 
 <img src="Image Intro.png" style="zoom:80%;" />
 
+><div style="overflow: hidden;">
+><img src="setting.png" style="zoom:20%; float: left; margin-right: 10px;" />
+><p> <a href="mailto:jornadasarsencia@gmail.com">jornadasarsencia@gmail.com</a></p>
+><a href="https://docs.google.com/forms/d/e/1FAIpQLScIfY-1FIBzalcdYrARaMbFcnxCOlpydFOttYMIVB-W0YJmUg/viewform">Registration link</a></p>
+><a href="https://docs.google.com/forms/d/e/1FAIpQLSdyGG_DA9wiuElFUp80cyRSuWOf8m4h7CgVNSFPJQTzNLBPqQ/viewform">Communication submission</a></p>
+><a href="https://drive.google.com/drive/folders/1GMEf6Q1cIKK-5A3YU4VQiUWtfoz0FgbQ?usp=drive_link">Download templates</a>
+></div>
+
 ## Presentation
 
 <p style="font-size: 14px;"><em>Health and nutrition are closely linked. The quantity and variety of foods in our diet, along with food production models currently being revised to promote greater sustainability, can influence both nutrient intake and exposure to harmful substances.
