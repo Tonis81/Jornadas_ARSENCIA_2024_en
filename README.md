@@ -18,7 +18,7 @@
   <img src="setting.png" style="zoom:25%; float: left; margin-right: 10px;" />
   <p><a href="mailto:jornadasarsencia@gmail.com">jornadasarsencia@gmail.com</a></p>
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScIfY-1FIBzalcdYrARaMbFcnxCOlpydFOttYMIVB-W0YJmUg/viewform">Registration link</a></p>
-  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdyGG_DA9wiuElFUp80cyRSuWOf8m4h7CgVNSFPJQTzNLBPqQ/viewform">Communication submission</a></p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdyGG_DA9wiuElFUp80cyRSuWOf8m4h7CgVNSFPJQTzNLBPqQ/viewform"> Registration communication submission</a></p>
   <p><a href="https://drive.google.com/drive/folders/1GMEf6Q1cIKK-5A3YU4VQiUWtfoz0FgbQ?usp=drive_link">Download templates</a></p>
 </div>
 
