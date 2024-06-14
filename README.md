@@ -149,6 +149,11 @@
 > <p>Eva Morales Bartolomé - <a href="mailto:evamorales@um.es">evamorales@um.es</a>. Assistant Professor of Preventive Medicine and Public Health at the University of Murcia, and member of the Pediatric Research Group at IMIB-Arrixaca. Co-director of the NELA cohort, studying the early environmental impacts on childhood respiratory health, particularly asthma and allergies. Executive committee member of GAN and member of CIBERESP. Her research focuses on birth cohort studies, asthma epidemiology, and environmental and molecular epidemiology.</p>
 > </div>
 
+><div style="overflow: hidden;">
+><img src="Photo Luis.png" style="zoom:35%; float: left; margin-right: 10px;" />
+><p>Luis Noguera Artiaga - <a href="mailto:lnoguera@umh.es">lnoguera@umh.es</a>. Assistant Professor at UMH. Member of the Food Quality and Safety Research Group at the Agro-Food and Agro-Environmental Research and Innovation Institute of UMH. His research focuses on the study of sensory analysis in food and the impact that agricultural practices have on its quality. Additionally, he studies the impact of aroma on the taste and quality of food through the analysis of its volatile organic compounds. He is the director of the Tasting Panel for the Protected Designation of Origin Alicante Wines and the director of the Tasting Panel for the Protected Designation of Origin Murcia Paprika.</p>
+></div>
+
 > ### **International**
 
 ><div style="overflow: hidden;">
