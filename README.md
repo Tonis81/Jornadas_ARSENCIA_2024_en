@@ -236,6 +236,9 @@
 ><div style="overflow: hidden;">
 ><img src="Photo Rocio.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Rocío Fernández Iglesias - <a href="mailto:fernandezirocio@uniovi.es">fernandezirocio@uniovi.es</a>. Professor of Statistics and Operations Research and Mathematics Education at the University of Oviedo, and Doctor in Biomedicine and Molecular Oncology from the same university. Her main line of research focuses on the application of statistical methods in the field of epidemiology and public health. She is affiliated with the Health Research Institute of the Principality of Asturias and the University Institute of Oncology of the Principality of Asturias.</p></div>
 
+><div style="overflow: hidden;">
+><img src="Photo Sonia.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Sonia Pérez Fernández - <a href="mailto:soniapfdez@gmail.com">soniapfdez@gmail.com</a>. Doctor in Mathematics and Statistics from the University of Oviedo and the Vienna University of Technology. She currently works as an Assistant Professor in the area of Statistics and Operations Research at the University of Oviedo, collaborating on projects aimed at advancing comparison, classification, and data analysis in socioeconomic and biosanitary environments. Her research focuses on the generalization of the ROC curve to explore binary classification sets that optimize the discriminatory capacity of univariate and multivariate biomarkers.</p></div>
+
 <img src="Tap.png" style="zoom:80%;" />
 
 > ## **Scientific Committee**:
