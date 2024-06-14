@@ -57,7 +57,7 @@
 >
 > Speaker: Dr. Pablo Martínez Camblor
 >
->Description: XXXX
+>Description: Brief personal historical overview of my more than 25 years in biostatistics. I will analyze the changes and evolution of methods and the perception of statistics, as well as fundamental topics in current science such as reproducibility, causal contexts, and similar concepts.
 
 > #### 11:45 Title to be determined
 >
