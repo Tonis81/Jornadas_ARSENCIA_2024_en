@@ -264,24 +264,27 @@
 > ### Committee Members
 
 > Jesús Vioque López, Universidad Miguel Hernández (Spain)
->
+
 > Manuela García de la Hera, Universidad Miguel Hernández (Spain)
->
+
 > Laura Torres Collado, Universidad Miguel Hernández (Spain)
->
+
 > Sandra González Palacios, Universidad Miguel Hernández (Spain)
->
+
 > Alejandro Oncina Cánovas, Universidad Miguel Hernández (Spain)
->
+
 > Laura M. Compañ Gabucio, Universidad Miguel Hernández (Spain)
->
+
 > Carolina Ojeda Belokon, Universidad Miguel Hernández (Spain)
->
+
 > Diana Mancheño Bañón, Universidad Miguel Hernández (Spain)
->
-> María del Carmen Esquiva Antonlino, Universidad Miguel Hernández (Spain)
-> 
+
+> María del Carmen Esquiva Antolino, Universidad Miguel Hernández (Spain)
+
 > Leyre Notario Barandiaran, Dartmouth College (United States)
+
+><div style="overflow: hidden;">
+><img src="Photo Jacek.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Jacek Lyczko (Polonia)- <a href="mailto:jacek.lyczko@upwr.edu.pl">jacek.lyczko@upwr.edu.pl</a>. Jacek Lyczko, Ph.D., graduated from the Faculty of Biotechnology and Food Sciences, University of Life Sciences in Wroclaw, in 2017. He earned his doctoral degree in food technology and nutrition in 2021, followed by his habilitation in 2024. He is currently employed in the Department of Food Chemistry and Biocatalysis at UPWr. Dr. Lyczko's research focuses on chemical analytics and chromatography, emphasizing food quality. He specializes in analyzing essential oils and aromatic profiles of herbs, spices, and pharmacopoeial plants, and studies the impact of drying processes on plant quality. He has trained in chromatographic analysis in Poland, Germany, and Japan. He has managed projects like "Odour Sensory Quality of Herbs" (PRELUDIUM-18) and currently oversees "New Generation Appetite Active Agents" (Leader competition XI).</p></div>
 
 <img src="Tap.png" style="zoom:80%;" />
 
