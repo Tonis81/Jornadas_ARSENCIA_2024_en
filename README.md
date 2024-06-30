@@ -167,6 +167,8 @@
 ><p>Luis Noguera Artiaga - <a href="mailto:lnoguera@umh.es">lnoguera@umh.es</a>. Assistant Professor at UMH. Member of the Food Quality and Safety Research Group at the Agro-Food and Agro-Environmental Research and Innovation Institute of UMH. His research focuses on the study of sensory analysis in food and the impact that agricultural practices have on its quality. Additionally, he studies the impact of aroma on the taste and quality of food through the analysis of its volatile organic compounds. He is the director of the Tasting Panel for the Protected Designation of Origin Alicante Wines and the director of the Tasting Panel for the Protected Designation of Origin Murcia Paprika.</p>
 ></div>
 
+><Lucia Andreu Coll
+
 > ### **International**
 
 ><div style="overflow: hidden;">
