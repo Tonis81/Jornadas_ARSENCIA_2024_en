@@ -134,7 +134,7 @@
 >
 > Description: xxxxx
 
-> ### 10:45 Sensorial analysis <span style="color:darkred;">Tasting - To be defined</span>
+> ### 12:15 Sensorial analysis <span style="color:darkred;">Tasting - To be defined</span>
 >
 > Speaker: Luis Noguera Artiaga
 >
