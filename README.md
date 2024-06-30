@@ -43,7 +43,7 @@
 > #### 9:00 Attendee reception
 
 > #### 9:30 Opening ceremony
-
+>
 > #### Speaker: Prof. Ángel Carbonell Barrachina
 >
 > Description: XXXX
