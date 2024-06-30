@@ -89,10 +89,6 @@
 > ### 13:00 <span style="color:darkred;">Active break</span>
 
 > ### 13:30 <span style="color:darkred;">Tapas and Gurus Lunch</span>
->
-> Speaker: Dr. Luis Noguera Artiaga
->
-> Description: XXXX
 
 > ### 15:00 Student poster session
 
