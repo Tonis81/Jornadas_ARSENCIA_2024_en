@@ -168,7 +168,7 @@
 ></div>
 
 ><div style="overflow: hidden;">
-><img src="Photo Lucia.png" style="zoom:35%; float: left; margin-right: 10px;" />
+><img src="photo Lucia.png" style="zoom:35%; float: left; margin-right: 10px;" />
 ><p>Lucía Andreu Coll - <a href="mailto:l.andreu@umh.es">l.andreu@umh.es</a>. Doctor in Agricultural, Agro-environmental, and Food Resources and Technologies from Miguel Hernández University. Member of the research group in Pomology and Production Techniques at CIAGRO-UMH. Her research focuses on the production and quality of environmentally sustainable crops. Currently collaborating on the AGROALNEXT/2022/040 project, evaluating deficit irrigation techniques in stone fruit trees.</p>
 ></div>
 
