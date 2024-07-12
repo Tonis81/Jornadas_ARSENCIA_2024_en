@@ -204,7 +204,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Professor of Preventive Medicine and Public Health at the UMH. He obtained a master's degree in public health and training in nutritional epidemiology at Harvard. He leads the EPINUT group, which investigates the role of diet in non-communicable diseases. He has led studies such as PANESOES, on diet and cancer risk, and the INMA Study, on contaminants and child development. His group participates in PREDIMED-PLUS, which evaluates a hypocaloric Mediterranean diet on cardiovascular risk and diabetes.</p></div>
+><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Professor of Preventive Medicine and Public Health at the UMH. He obtained a master's degree in public health and training in nutritional epidemiology at Harvard. He leads the  Nutrition Epidemiology Group (EPINUT), which investigates the role of diet in non-communicable diseases. He has led studies such as PANESOES, on diet and cancer risk, and the INMA Study, on contaminants and child development. His group participates in PREDIMED-PLUS, which evaluates a hypocaloric Mediterranean diet on cardiovascular risk and diabetes.</p></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
@@ -218,7 +218,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Alex.png" style="zoom:42%; float: left; margin-right: 10px;" />
-><p>Alejandro Oncina Canovas - <a href="mailto:aoncina@umh.es">aoncina@umh.es</a>. Predoctoral researcher in the EPINUT group at UMH. Affiliated with ISABIAL and CIBERESP. His main research line focuses on examining the association between adherence to pro-vegetarian dietary patterns (diets that mimic vegetarian diets) and various health outcomes. Additionally, he is a collaborating researcher in ARSENCIA and other internationally relevant studies such as PREDIMED-Plus and the INMA cohort study.</p>
+><p>Alejandro Oncina Canovas - <a href="mailto:aoncina@umh.es">aoncina@umh.es</a>. Postdoctoral researcher in the EPINUT group at UMH. Affiliated with ISABIAL and CIBERESP. His main research line focuses on examining the association between adherence to pro-vegetarian dietary patterns (diets that mimic vegetarian diets) and various health outcomes. Additionally, he is a collaborating researcher in ARSENCIA and other internationally relevant studies such as PREDIMED-Plus and the INMA cohort study.</p>
 ></div>
 
 ><div style="overflow: hidden;">
@@ -228,22 +228,22 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Carolina.png" style="zoom:38%; float: left; margin-right: 10px;" />
-><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>. Graduated in Human Nutrition and Dietetics from the University of Alicante (UA) and holds a Master's in Public Health, jointly from Universidad Miguel Hernández (UMH) and UA. Currently, she has a predoctoral contract at UMH in the EPINUT group, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH.</p>
+><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>. Graduated in Human Nutrition and Dietetics from the University of Alicante (UA) and holds a Master's in Public Health, jointly from UMH and UA. Currently, she has a predoctoral contract at UMH in the EPINUT group, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH.</p>
 ></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Diana.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>. Graduated in Occupational Therapy from UMH and holds a Master's in Public Health, jointly from Universidad Miguel Hernández (UMH) and Universidad de Alicante (UA). Currently, she has a contract from the ISABIAL INVESTIGO Program as a collaborating researcher in the EPINUT group at UMH, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH.</p>
+><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>. Graduated in Occupational Therapy from UMH and holds a Master's in Public Health, jointly from UMH and UA. Currently, she has a contract from the ISABIAL INVESTIGO Program as a collaborating researcher in the EPINUT group at UMH, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH.</p>
 ></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Mari Carmen.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. Graduated in Veterinary Medicine from the University of Murcia (UMU) and holds a Master's in Public Health, jointly from UMH and Universidad de Alicante (UA). Currently, she has a contract from the ISABIAL INVESTIGO Program as a collaborating researcher in the EPINUT group at UMH, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH. </p>
+><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. Graduated in Veterinary Medicine from the University of Murcia (UMU) and holds a Master's in Public Health, jointly from UMH and UA. Currently, she has a contract from the ISABIAL INVESTIGO Program as a collaborating researcher in the EPINUT group at UMH, participating in various projects such as PREDIMED-Plus, and is conducting her doctoral thesis in the Public Health, Medical, and Surgical Sciences Doctoral Program at UMH. </p>
 ></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Sandra.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Sandra Gonzalez Palacios - <a href="mailto:sandra.gonzalezp@umh.es">sandra.gonzalezp@umh.es</a>. Postdoctoral researcher at CIBER in Epidemiology and Public Health (CIBERESP). Member of the EPINUT group and the Alicante Institute for Health and Biomedical Research (ISABIAL). Dietitian-Nutritionist, Doctor in Public Health, and specialist in Nutritional Epidemiology. Principal investigator of the FIS PI23/01568 project and the Intramural CIBERESP ESP24PI02 Project. Collaborator in other studies such as PREDIMED Plus and the INfancia y Medio Ambiente study.</p>
+><p>Sandra Gonzalez Palacios - <a href="mailto:sandra.gonzalezp@umh.es">sandra.gonzalezp@umh.es</a>. Postdoctoral researcher at CIBER in Epidemiology and Public Health (CIBERESP). Member of the EPINUT group and ISABIAL. Dietitian-Nutritionist, Doctor in Public Health, and specialist in Nutritional Epidemiology. Principal investigator of the FIS PI23/01568 project and the Intramural CIBERESP ESP24PI02 Project. Collaborator in other studies such as PREDIMED Plus and the INfancia y Medio Ambiente study.</p>
 ></div>
 
 ><img src="Tap.png" style="zoom:80%;" />
