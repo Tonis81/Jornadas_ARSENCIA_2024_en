@@ -86,7 +86,7 @@
 >
 > Description: XXXX
 
-> ### 13:00 <span style="color:darkred;">Active break</span>
+> ### 13:15 <span style="color:darkred;">Active break</span>
 
 > ### 13:30 <span style="color:darkred;">Tapas and Gurus Lunch</span>
 
@@ -102,7 +102,7 @@
 
 > ### 9:30 Title to be determined - Agroalnext Project
 >
-> Speaker: Paqui/Lucia
+> Speaker: Lucia Andreu Coll
 >
 > Description: xxxxxx
 
@@ -112,7 +112,7 @@
 >
 > Description: One of the objectives of the project is the characterization of formulated feeds for farmed gilthead seabream using alternative proteins, along with the evaluation of the effect of feeding these feeds throughout the entire life cycle on the content of abiotic contaminants in the edible parts and viscera.
 
-> ### 10:15 Title to be determined - Mediterranean Diet Project
+> ### 10:00 Title to be determined - Mediterranean Diet Project
 > 
 > Speaker: Dr. Sandra González Palacios
 >
@@ -120,27 +120,19 @@
 
 > ### 10:30 <span style="color:darkred;">Active break</span>
 
-> ### 10:45 <span style="color:darkred;">Coffee break</span>
-
-> ### 11:15 Presentation by PREDIMED Plus participants
+> ### 11:00 Presentation by PREDIMED Plus participants
 >
 >Speaker: xxxxx
 >
 >Description: xxxxx
 
-> ### 11:45 Farewell for the end of the PREDIMED Plus study
->
-> Speaker: xxxxx
->
-> Description: xxxxx
-
-> ### 12:15 Sensorial analysis <span style="color:darkred;">Tasting - To be defined</span>
+> ### 11:30 Sensorial analysis <span style="color:darkred;">Tasting - To be defined</span>
 >
 > Speaker: Luis Noguera Artiaga
 >
 > Description: xxxxx
 
-> ### 13:15 Closing ceremony
+> ### 13:00 Closing ceremony
 >
 > Dr. Antonio J. Signes Pastor
 
