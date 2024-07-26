@@ -118,7 +118,9 @@
 >
 > Description: xxxxx
 
-> ### 10:30 <span style="color:darkred;">Active break</span>
+> ### 10:15 <span style="color:darkred;">Active break</span>
+
+> ### 10:30 <span style="color:darkred;">Coffee break</span>
 
 > ### 11:00 Presentation by PREDIMED Plus participants
 >
