@@ -112,11 +112,11 @@
 >
 > Description: One of the objectives of the project is the characterization of formulated feeds for farmed gilthead seabream using alternative proteins, along with the evaluation of the effect of feeding these feeds throughout the entire life cycle on the content of abiotic contaminants in the edible parts and viscera.
 
-> ### 10:00 Title to be determined - Mediterranean Diet Project
+> ### 10:00 Transmission of the Mediterranean Diet in childhood in INMA
 > 
 > Speaker: Dr. Sandra González Palacios
 >
-> Description: xxxxx
+> Description: Dr. Sandra González Palacios will present the INMA cohort and its findings on the transmission of the Mediterranean diet from mothers to children, its association with environmental contaminants and cardiometabolic risk.
 
 > ### 10:15 <span style="color:darkred;">Active break</span>
 
