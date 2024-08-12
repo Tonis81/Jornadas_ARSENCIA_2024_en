@@ -68,7 +68,7 @@
 >
 >Description: Brief personal historical overview of my more than 25 years in biostatistics. I will analyze the changes and evolution of methods and the perception of statistics, as well as fundamental topics in current science such as reproducibility, causal contexts, and similar concepts.
 
-> #### 11:45 Title to be determined
+> #### 11:45 Association between exposure to metal mixtures and neurodevelopment in INMA children
 >
 > Speaker: Dr. Susana Díaz Coto
 >
