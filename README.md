@@ -80,11 +80,11 @@
 >
 > Description: Dr. Leyre Notario Barandiarán will present the New Hampshire Birth Cohort Study (NHBCS) and detail her research on dietary metal exposure.
 
-> ### 12:45 Metals in mothers and children
+> ### 12:45 Metals in mothers and children of the NELA cohort
 >
 > Speaker: Dr. Eva Morales Bartolomé
 >
-> Description: XXXX
+> Description: Dr. Eva Morales Bartolomé will present the Nutrition in Early Life and Asthma (NELA) birth cohort and discuss her research on metal exposure during pregnancy and childhood.
 
 > ### 13:15 <span style="color:darkred;">Active break</span>
 
