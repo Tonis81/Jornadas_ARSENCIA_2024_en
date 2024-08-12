@@ -74,11 +74,11 @@
 >
 > Description: Dr. Susana Díaz Coto will present the work she leads on exposure to metal mixtures and neurological development in children aged 4 to 5 years, as part of the INfancia y Medio Ambiente (INMA) cohort study.
 
-> #### 12:15 Title to be determined
+> #### 12:15 Environmental exposure in the NHBCS birth cohort study
 >
 > Speaker: Dr. Leyre Notario Barandiarán
 >
-> Description: XXXX
+> Description: Dr. Leyre Notario Barandiarán will present the New Hampshire Birth Cohort Study (NHBCS) and detail her research on dietary metal exposure.
 
 > ### 12:45 Metals in mothers and children
 >
