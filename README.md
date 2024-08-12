@@ -100,15 +100,15 @@
 
 > ### 9:00 Attendee reception
 
-> ### 9:30 Title to be determined - Agroalnext Project
+> ### 9:30 Agroalnext Project - Regulated Deficit Irrigation
 >
-> Speaker: Lucia Andreu Coll
+> Speaker: Dr. Lucia Andreu Coll
 >
-> Description: xxxxxx
+> Description: Dr. Lucía Andreu Coll will introduce the Agroalnext project and present her research on the Impact of Regulated Deficit Irrigation on Antioxidant Activity, Fatty Acid Profile, Volatile Compounds, and Fruit Quality in 'Mirlo Rojo' Apricots.
 
 > #### 9:45 Acuicultura, calidad e innovación (AQUI)
 >
-> Ponente: Dra. Marina Cano Lamadrid
+> Ponente: Dr. Marina Cano Lamadrid
 >
 > Description: One of the objectives of the project is the characterization of formulated feeds for farmed gilthead seabream using alternative proteins, along with the evaluation of the effect of feeding these feeds throughout the entire life cycle on the content of abiotic contaminants in the edible parts and viscera.
 
