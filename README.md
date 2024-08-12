@@ -122,17 +122,17 @@
 
 > ### 10:30 <span style="color:darkred;">Coffee break</span>
 
-> ### 11:00 Presentation by PREDIMED Plus participants
+> ### 11:00 Experience of participants in the Predimed-Plus project
 >
 >Speaker: xxxxx
 >
->Description: xxxxx
+>Description: Predimed-Plus evaluates the effect of an intensive lifestyle intervention aiming at losing weight with an energy-restricted Mediterranean diet, physical activity promotion and behavioral support on the primary prevention of cardiovascular diseases.
 
 > ### 11:30 Sensorial analysis <span style="color:darkred;">Tasting - To be defined</span>
 >
-> Speaker: Luis Noguera Artiaga
+> Speaker: Dr. Luis Noguera Artiaga
 >
-> Description: xxxxx
+> Description: Dr. Luís Noguera Artiaga will give an introduction to sensory analysis and guide us through a tasting.
 
 > ### 13:00 Closing ceremony
 >
@@ -299,7 +299,17 @@
 
 > ## **Links of Interest:**
 
-> [EPINUT](https:XXXXXXX)
+> [EPINUT](https://epinut.umh.es/en/epinut/)
+> [CIAGRO-UMH](https://ciagro.umh.es/)
+> [ThinkinAzul](https://thinkinazul.es/)
+> [Predimed-Plus](https://www.predimedplus.com/en/)
+> [Agroalnext](https://agroalnextgva.umh.es/agroalnext-gva/)
+> [Plan GenT GVA](https://ceice.gva.es/es/web/ciencia/convocatories_2024/d-programa-per-al-suport-a-persones-investigadores-amb-talent-pla-gent)
+> [Máster Salud Pública - UMH](https://msp.umh.es/)
+> [NHBCS](https://geiselmed.dartmouth.edu/childrenshealth/new-hampshire-birth-cohort-study/)
+> [INMA](https://www.proyectoinma.org/en/)
+> [NELA](https://nela.imib.es/)
+> [ARSENCIA](https://tonis81.github.io/ARSENCIA-Project/)
 
 <img src="Tap.png" style="zoom:80%;" />
 
