@@ -46,19 +46,19 @@
 >
 > #### Speaker: Prof. Ángel Carbonell Barrachina
 >
-> Description: XXXX
+> Description: The Prof. Ángel Carbonell Barrachina, Vice-Rector for Research and Transfer at UMH, will officially open the sessions.
 
 > #### 9:45 Nutritional Epidemiology
 >
 > Speaker: Prof. Jesús Vioque López
 >
-> Description: XXXX
+> Description: Prof. Jesús Vioque López is the director of the Nutrition Epidemiology research group (EPINUT), where these sessions were developed. Prof. Vioque will introduce the role of diet in health.
 
 > #### 10:15 Pollution and Health
 >
 > Speaker: Dr. Antonio J. Signes Pastor
 >
-> Description: XXXX
+> Description: Dr. Antonio J. Signes Pastor is a Senior Researcher funded by the GenT program of the Generalitat Valenciana. Dr. Signes Pastor will present the role of trace element epidemiology, including its perspective on food safety and quality.
 
 > #### 10:45 <span style="color:darkred;">Coffee break</span>
 
@@ -72,7 +72,7 @@
 >
 > Speaker: Dr. Susana Díaz Coto
 >
-> Description: XXXX
+> Description: Dr. Susana Díaz Coto will present the work she leads on exposure to metal mixtures and neurological development in children aged 4 to 5 years, as part of the INfancia y Medio Ambiente (INMA) cohort study.
 
 > #### 12:15 Title to be determined
 >
