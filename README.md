@@ -325,7 +325,7 @@
 
 <br/>
 
-<img src="Logos.png" style="zoom:100%;" />
+<img src="Logos1.png" style="zoom:100%;" />
 
 <img src="bottom.png" style="zoom:80%;" />
 
