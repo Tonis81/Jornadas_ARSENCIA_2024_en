@@ -245,6 +245,9 @@
 ## **Evaluation Committee**:
 
 ><div style="overflow: hidden;">
+><img src="Esther Sendra.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Esther Sendra Nadal - <a href="mailto:esther.sendra@umh.es">esther.sendra@umh.es</a>. Professor of Food Technology at UMH, member of the research group on Food Quality and Safety at the Agro-Food and Environmental Research Institute. PhD in Veterinary Science, teaches Food Standardization and Legislation. Her research focuses on the impact of agronomic practices on the fat fraction and bioactive compounds in agricultural products, and the use of alternative raw materials in animal diets. She is the Director of the Master's in Agroecology, Rural Development, and Agritourism, and principal investigator in a Marine Sciences subproject under ThinkInAzul.</p></div>
+
+><div style="overflow: hidden;">
 ><img src="Photo Paqui_1.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Francisca Hernández García - <a href="mailto:francisca.hernandez@umh.es">francisca.hernandez@umh.es</a>. Professor at UMH, member of the Fruit Growing and Production Techniques Research Group, Senior Researcher at CIAGRO-UMH, and member of the Academic Committee of the Doctoral Program in Agricultural, Environmental, and Food Resources and Technologies. Expert in Fruit Growing and Production Techniques. Principal investigator of the HidroSOStoneFruit project and collaborator in the ThinkinAzul project.</p></div>
 
 ><div style="overflow: hidden;">
