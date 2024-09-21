@@ -124,7 +124,7 @@
 
 > ### 11:00 Experience of participants in the Predimed-Plus project
 >
->Speaker: xxxxx
+>Speaker: Maria Cristina Godoy y Francisco Sempere Botella
 >
 >Description: Predimed-Plus evaluates the effect of an intensive lifestyle intervention aiming at losing weight with an energy-restricted Mediterranean diet, physical activity promotion and behavioral support on the primary prevention of cardiovascular diseases.
 
