@@ -20,6 +20,7 @@
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScIfY-1FIBzalcdYrARaMbFcnxCOlpydFOttYMIVB-W0YJmUg/viewform">Registration link</a></p>
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdyGG_DA9wiuElFUp80cyRSuWOf8m4h7CgVNSFPJQTzNLBPqQ/viewform"> Registration communication submission</a></p>
   <p><a href="https://drive.google.com/drive/folders/1GMEf6Q1cIKK-5A3YU4VQiUWtfoz0FgbQ?usp=drive_link">Download templates</a></p>
+  <p><a href="https://drive.google.com/file/d/1L2PgHaPttw28QyT5s22T901AxFyK_RME/view?usp=drive_link">Download agenda</a></p>
 </div>
 
 
